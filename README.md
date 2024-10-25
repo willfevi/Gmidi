@@ -1,4 +1,6 @@
-
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/img_1.png" width="260">&emsp;<img src="/img_2.png" width="260">
 
 ## Gmidi
 Aplicativo Android de WebView para o site GMidi
