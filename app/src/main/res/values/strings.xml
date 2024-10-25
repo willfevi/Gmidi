@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gmidi</string>
+    <string name="no_connection_image">no_connection_image</string>
+</resources>
