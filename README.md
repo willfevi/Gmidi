@@ -7,6 +7,7 @@ Aplicativo Android de WebView para o site GMidi
 
 ## Descrição
 Este projeto é um aplicativo Android que foi desenvolvido pra suprir uma demanda do cliente de forma rapida e eficaz para se ter um aplicativo,a solução encontrada foi desenvolver um app que utiliza uma WebView para carregar o site GMidi. O aplicativo inclui uma implementação personalizada de `WebViewClient` para gerenciar o carregamento de URLs e abre links externos no navegador padrão do dispositivo. Além disso, o aplicativo apresenta uma tela de erro amigável caso não consiga conectar-se à internet.
+**Obs:** Site não desenvolvido por mim, apenas a solução de adaptar em um webview nativo.
 
 ## Funcionalidades
 - Carrega o site GMidi dentro do aplicativo utilizando WebView.
